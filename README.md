@@ -4,6 +4,8 @@
 A tool to classify customers into 6 clusters. Using the K-Means model to determine the number of clusters. After that, using the Logistic Regression model to classify new customer data into the 6 clusters. The most influential data are customer gender, customer marital status, customer age, and customer income.
 </p>
 
+<br>
+
 - Using datasets from [kaggle](https://www.kaggle.com/datasets/dev0914sharma/customer-clustering?select=segmentation+data.csv)
 - For the complete code please check [this Google Colab](https://colab.research.google.com/drive/1X66xbN8-tbU2Vs_9zLwe0IS3ljss35MB?usp=sharing)
 - To test the model please visit [this link](https://findcustomercluster.streamlit.app/)
