@@ -15,12 +15,12 @@ A tool to classify customers into 6 clusters. Using the K-Means model to determi
 <p style='text-align: justify;'>
 The six customer clusters are as follows:
   <ul>
-    <li> <strong> Cluster 0: </strong> Single males with an average mature age, average high school education, average high salary, average skilled employee / official worker, average living in a big city. </li>
-    <li> <strong> Cluster 1: </strong> Non-single females with an average young age, average high school education, average small salary, average not working, average living in a small city. </li>
-    <li> <strong> Cluster 2: </strong> Non-single males with an average young age, average high school education, average medium salary, average skilled employee / official worker, average living in a mid-sized city. </li>
-    <li> <strong> Cluster 3: </strong> Non-single females with an average young age, average high school education, average medium salary, average skilled employee / official worker, average living in a mid-sized city. </li>
-    <li> <strong> Cluster 4: </strong> Single females with an average mature age, average high school education, average small salary, average not working, average living in a small city. </li>
-    <li> <strong> Cluster 5: </strong> Single males with an average mature age, average high school education, average medium salary, average not working, average living in a small city. </li>
+    <li> <strong> Cluster 0: </strong> Single customer with an average mature age, average high school education, average high salary, average skilled employee / official worker, average living in a big city. </li>
+    <li> <strong> Cluster 1: </strong> Non-single customer with an average young age, average high school education, average small salary, average not working, average living in a small city. </li>
+    <li> <strong> Cluster 2: </strong> Non-single customer with an average young age, average high school education, average medium salary, average skilled employee / official worker, average living in a mid-sized city. </li>
+    <li> <strong> Cluster 3: </strong> Non-single customer with an average young age, average high school education, average medium salary, average skilled employee / official worker, average living in a mid-sized city. </li>
+    <li> <strong> Cluster 4: </strong> Single customer with an average mature age, average high school education, average small salary, average not working, average living in a small city. </li>
+    <li> <strong> Cluster 5: </strong> Single customer with an average mature age, average high school education, average medium salary, average not working, average living in a small city. </li>
   </ul>
 </p>
 
