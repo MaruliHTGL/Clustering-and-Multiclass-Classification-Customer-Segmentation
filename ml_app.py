@@ -102,20 +102,20 @@ def run_ml_app():
     
     if prediction == 0:
         st.success("Cluster 0")
-        st.write("Single males with an average mature age, average high school education, average high salary, average skilled employee / official worker, average living in a big city.")
+        st.write("Single customer with an average mature age, average high school education, average high salary, average skilled employee / official worker, average living in a big city.")
     elif prediction == 1:
         st.success("Cluster 1")
-        st.write("Non-single females with an average young age, average high school education, average small salary, average not working, average living in a small city.")
+        st.write("Non-single customer with an average young age, average high school education, average small salary, average not working, average living in a small city.")
     elif prediction == 2:
         st.success("Cluster 2")
-        st.write("Non-single males with an average young age, average high school education, average medium salary, average skilled employee / official worker, average living in a mid-sized city.")
+        st.write("Non-single customer with an average young age, average high school education, average medium salary, average skilled employee / official worker, average living in a mid-sized city.")
     elif prediction == 3:
         st.success("Cluster 3")
-        st.write("Non-single females with an average young age, average high school education, average medium salary, average skilled employee / official worker, average living in a mid-sized city.")
+        st.write("Non-single customer with an average young age, average high school education, average medium salary, average skilled employee / official worker, average living in a mid-sized city.")
     elif prediction == 4:
         st.success("Cluster 4")
-        st.write("Single females with an average mature age, average high school education, average small salary, average not working, average living in a small city.")
+        st.write("Single customer with an average mature age, average high school education, average small salary, average not working, average living in a small city.")
     elif prediction == 5:
         st.success("Cluster 5")
-        st.write("Single males with an average mature age, average high school education, average medium salary, average not working, average living in a small city.")
+        st.write("Single customer with an average mature age, average high school education, average medium salary, average not working, average living in a small city.")
     
