@@ -7,7 +7,7 @@ A tool to classify customers into 3 clusters. Using the K-Means model to determi
 <br>
 
 - Using datasets from [kaggle](https://www.kaggle.com/datasets/dev0914sharma/customer-clustering?select=segmentation+data.csv)
-- For the complete code please check [this Google Colab](https://colab.research.google.com/drive/1X66xbN8-tbU2Vs_9zLwe0IS3ljss35MB?usp=sharing)
+- For the complete code please check [this file](https://github.com/MaruliHTGL/Clustering-and-Multiclass-Classification-Customer-Segmentation/blob/bb1a96af1d1d961cf6005e587fc5ed224ebbaca0/Clustering%20and%20Multiclass%20Classification.ipynb)
 - To test the model please visit [this link](https://findcustomercluster.streamlit.app/)
 
 <br>
