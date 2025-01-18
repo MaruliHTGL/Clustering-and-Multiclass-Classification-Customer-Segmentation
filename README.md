@@ -13,7 +13,7 @@ A tool to classify customers into 3 clusters. Using the K-Means model to determi
 <br>
 
 <p style='text-align: justify;'>
-The six customer clusters are as follows:
+The three customer clusters are as follows:
   <ul>
     <li> <strong> Cluster 0: </strong> Clusters with average customers of mature age, moderate income, working as skilled employees / officials, and living in mid-sized cities. </li>
     <li> <strong> Cluster 1: </strong> Clusters with average customers of old age, high income, working as management / self-employed / highly qualified employee / officer, and living in big cities. </li>
