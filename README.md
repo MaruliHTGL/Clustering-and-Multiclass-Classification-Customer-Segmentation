@@ -1,7 +1,7 @@
 # Clustering and Multiclass Classification: Customer Segmentation
 
 <p style='text-align: justify;'>
-A tool to classify customers into 3 clusters. Using the K-Means model to determine the number of clusters. After that, using the Logistic Regression model to classify new customer data into the 3 clusters. The most influential data are customer age, customer income, customer occupation, customer settlement size.
+A tool to classify customers into 3 clusters. Using the K-Means model to determine the number of clusters. After that, using the Decision Tree model to classify new customer data into the 3 clusters. The most influential data are customer age, customer income, customer occupation, customer settlement size.
 </p>
 
 <br>
