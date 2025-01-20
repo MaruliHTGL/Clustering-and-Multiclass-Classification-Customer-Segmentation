@@ -12,7 +12,7 @@ def main():
             <h1 style='text-align: center;'> Discover Hidden Patterns Among Your Customers </h1>
             <br>
             <h4 style='text-align: left;'> Improve Business Strategy with Customer Clustering </h4>
-            <p style='text-align: justify;'> With this tool, you can uncover deep insights from your customer data. By utilizing machine learning technology, this tool allows you  :
+            <p style='text-align: justify;'> With this tool, you can uncover deep insights from your customer data. By utilizing machine learning technology, this tool allows you:
                 <ul style='text-align: justify;'>
                     <li><strong>Identify Customer Segments:</strong> Separate customers into clusters based on their personal data, so you can target more specific and effective marketing strategies. </li>
                     <li><strong>Analyze Data Efficiently:</strong> A fast analytics process allows you to save time while ensuring accurate results, even if your data is large or complex. </li>
